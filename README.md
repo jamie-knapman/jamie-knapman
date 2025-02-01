@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamie-knapman
 - 👀 I’m interested in System design and Software development
-- 🌱 I’m currently studying Computer Science with an Industry year at university
+- 🌱 I’m currently studying Computer Science at university
 - 📫 How to reach me: jamieknapman.jk@gmail.com
 
 <!---
